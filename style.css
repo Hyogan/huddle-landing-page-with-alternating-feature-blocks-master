@@ -131,7 +131,7 @@ header img {
     align-items: center;
     position: absolute;
     left: 30%;
-    bottom : -165%;
+    bottom : -196vh;
     z-index: 4;
     border-radius: 15px;
     box-shadow: 2px 2px 4px 2px rgba(87, 86, 86, 0.747);
